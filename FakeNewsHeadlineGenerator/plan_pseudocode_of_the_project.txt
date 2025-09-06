@@ -1,0 +1,19 @@
+Project: FAKE HEADLINE GENERATOR(BEGINNER)
+
+Pseudocode for the project:
+step1: 3 types of lists
+    a. names
+    b. actions
+    c. works
+
+step2: random model use
+    random.choice()
+
+step3: asking user input (yes/no)
+    while loop using
+    if yes:
+        continues generating headline
+    else no:
+        break the project
+
+step4: print a good bye message if user choice no
